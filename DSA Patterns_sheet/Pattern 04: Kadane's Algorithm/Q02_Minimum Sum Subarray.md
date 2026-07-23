@@ -1,4 +1,4 @@
-Minimum Sum Subarray (Kadane's Algorithm - Minimum Variant)
+# Minimum Sum Subarray (Kadane's Algorithm - Minimum Variant)
 
 ---
 Problem Link
